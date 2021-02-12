@@ -6,3 +6,5 @@ Este codigo permite graficar los sistemas "Hénon" y "Disprey"  para asi obtener
 
 ## "ClickCI"
 Estos archivos permiten obtener un gráfico a partir de una condicion inicial haciendo click en el punto deseado. Se implemento para los sistemas "Cremona" y "Disprey"
+
+Contacto: gastonraraujo@gmail.com
